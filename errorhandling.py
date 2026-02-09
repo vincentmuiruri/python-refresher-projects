@@ -15,3 +15,6 @@ def validate_and_execute(days):
 
 user_input = input("Hey user, enter the number of days that you work out per week? ")  
 validate_and_execute(user_input)
+
+
+
